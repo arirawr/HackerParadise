@@ -19,7 +19,7 @@
     //http://www.epochconverter.com/
 		function countdown_proc() {
 
-			eventDate = 1475366400;
+			eventDate = 1474178400;
 
 			currentDate = Math.floor(Date.now() / 1000);
 
